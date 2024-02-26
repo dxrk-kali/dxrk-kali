@@ -1,7 +1,5 @@
 ### Hi there, glad to see ya here 👋
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrison-craig-401061224/)
-
 ### About Me
 I am an aspiring ethical hacker and cybersecurity enthusiast who loves to share his ideas and work on GitHub. In my free time im either playing video games or completing CTF challenges/hunting for bugs.
 
